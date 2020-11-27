@@ -1,0 +1,37 @@
+{
+  "name": "@browsercaptures/pgen",
+  "version": "1.0.7",
+  "description": "Npm package generator.",
+  "main": "lib/pgen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib",
+    "s"
+  ],
+  "bin": {
+    "pgen": "lib/pgens.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browsercaptures/pgen.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "generator"
+  ],
+  "author": "browsercaptures",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/browsercaptures/pgen/issues"
+  },
+  "homepage": "https://github.com/browsercaptures/pgen#readme",
+  "dependencies": {
+    "@aestheticbookshelf/fileutils": "^1.0.9",
+    "argparse": "^2.0.1",
+    "node-fetch": "^2.6.1",
+    "open": "^7.3.0"
+  }
+}

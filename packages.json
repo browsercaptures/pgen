@@ -1,0 +1,16 @@
+{
+  "global": {
+    "github": {
+      "user": "browsercaptures",
+      "email": "browsercaptures@gmail.com"
+    },
+    "gitlab": {
+      "user": "browsercaptures",
+      "email": "browsercaptures@gmail.com"
+    },
+    "npm": {
+      "user": "browsercaptures",
+      "email": "browsercaptures@gmail.com"
+    }
+  }
+}
